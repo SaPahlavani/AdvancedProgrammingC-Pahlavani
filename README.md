@@ -11,9 +11,8 @@ Advanced Programming - C
 
 🔹 ساختار مخزن
 
-📂 AdvancedProgrammingC  
 │── 📂 A0_Prerequisites   # پیش‌نیازها و مباحث مقدماتی  
 │── 📂 Exercises          # تمارین درس  
 │── 📂 SourceCodes        # کدهای نمونه  
-│── install.md            # راهنمای نصب و اجرای کدها  
+│── 📂 Books        # منابع  
 │── README.md             # این فایل  
